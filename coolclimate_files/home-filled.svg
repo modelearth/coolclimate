@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 14 203.33 100.16">
+  <defs>
+    <style>
+      .a {
+        fill: #4ba847;
+      }
+
+      .b {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>home-filled</title>
+  <rect class="a" width="239.7" height="179.81"/>
+  <path class="b" d="M157.4,63.8a1.1,1.1,0,0,0-.3-.7L147,53.7l-.3-16.5a.9.9,0,0,0-1-1h-7.8a.9.9,0,0,0-.7.3.8.8,0,0,0-.3.7v7.3l-14-13a1,1,0,0,0-1.4,0L87.1,63a1.1,1.1,0,0,0-.3.8v32a1,1,0,0,0,1,1h27.3a1.1,1.1,0,0,0,1-1V75.1h12.5V95.7a1,1,0,0,0,1,1h26.9a1,1,0,0,0,1-1Z" transform="translate(0)"/>
+
+</svg>
